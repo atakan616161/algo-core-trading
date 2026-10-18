@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atakan616161.github.io/algo-core-trading/sitemap.xml
